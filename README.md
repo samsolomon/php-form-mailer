@@ -1,11 +1,11 @@
-php-form-mailer
+PHP Form Mailer
 ===============
 
 Outline for a PHP program that receives data from a form, and then sends the results via email. 
 
 Styled with bootstrap.
 
-SUGGESTED FORM RESOURCES
+## Suggested Resources
 
  - http://rosstanner.co.uk/2012/11/build-simple-contact-form-html-php-bootstrap/ (Primiary source.)
  - http://alittlecode.com/jquery-form-validation-with-styles-from-twitter-bootstrap/
