@@ -2,7 +2,7 @@
 
 // SUGGESTED FORM RESOURCES
 //--------------------------
-// - http://rosstanner.co.uk/2012/11/build-simple-contact-form-html-php-bootstrap/ (Primiary source.)
+// - http://rosstanner.co.uk/2012/11/build-simple-contact-form-html-php-bootstrap/
 // - http://alittlecode.com/jquery-form-validation-with-styles-from-twitter-bootstrap/
 // - http://davidwalsh.name/password-protect-directory-using-htaccess
 // - http://www.limelightonline.co.nz/blog/create-dynamic-pdf-with-php-tutorial/
