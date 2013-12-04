@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-	<title>PHP Form Mailer/title>
+	<title>PHP Form Mailer</title>
     <link href="css/bootstrap.min.css" rel="stylesheet">
 
 <!-- CUSTOM STYLES -->
